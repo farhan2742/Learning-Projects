@@ -1,0 +1,15 @@
+.normal {
+    color: green;
+
+}
+.err {
+    color: red;
+}
+input.normal {
+    border-color: green;
+    color:black;
+}
+input.err {
+    border-color: red;
+    color:black;
+}
